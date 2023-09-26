@@ -6,8 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [👩‍💻 Presentation](#Presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -15,17 +13,15 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 budget_builder <a name="about-project"></a>
+# 📖 rails_react_joint_application <a name="about-project"></a>
 
-**budget_builder** This is a mobile first web application solution for tracking your expenses and their amounts all neatly packed together in one package. Intuitive design, functionality and User experience are the core fundamentals with this rails application. 
+**rails_react_joint_application** This is a joint application for react and rails for cohesive front and backend integration with jsbundling-rails with webpack 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,26 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Display Categories**
-- **Display Transactions**
-- **Create or Remove Categories**
-- **Create or Remove Transactions**
-- **Validation and Unit Tests**
-- **Capybara**
-- **Devise authentication and Authorization**
-- **Forms, Views, Controllers**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-[Checkout the live site here!](https://budgetbuilder.onrender.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Project Presentation <a name="Presentation"></a>
-
-[Loom Video presentation](https://www.loom.com/share/7a2825bc026c41bc97606cb0aca1cf23?sid=70c3369b-08e8-4c34-adaf-1023cf391dfd)
+- **Display Messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,8 +75,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh  
-   git clone https://github.com/gisachris/budget_builder.git
-   cd budget_builder
+   git clone https://github.com/gisachris/react_rails_joint_app.git
+   cd react_rails_joint_app
 ```
 
 ### Install
@@ -107,7 +84,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd budget_builder
+  cd react_rails_joint_app
   bundle install
 ```
 
@@ -140,22 +117,13 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Real time tracking and habit recognition**
-- [ ] **Expense Alerts and notifications**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gisachris/budget_builder/issues).
+Feel free to check the [issues page](https://github.com/gisachris/react_rails_joint_app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,13 +132,6 @@ Feel free to check the [issues page](https://github.com/gisachris/budget_builder
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project consider leaving a star in the repo. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-Original design idea by [ Gregoire Vella on Behance.](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
